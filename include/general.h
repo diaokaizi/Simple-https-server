@@ -21,7 +21,7 @@
 #include <sys/time.h>
 
 #define MAXFD 4
-#define PATH "/home/xukai/a"
+#define PATH "/home/xukai"
 #define Assert(cond, ...) \
   do { \
     if (!(cond)) { \
